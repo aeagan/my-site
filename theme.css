@@ -1,6 +1,22 @@
 .top-section {
+  background-color:#f9dc33;
+  height:50px;
+}
+.top-section ul {
+  text-align: center;
+  list-style-type: none;
+      -webkit-margin-before: 0em;
 
 }
+
+.top-section li {
+  display: inline-block;
+  margin-left:20px;
+  margin-right:20px;
+  color:#0000FF;
+  padding-top:15px;
+  font-size:20px;
+  }
 
 .top-menu {
 
@@ -14,7 +30,46 @@
 
 }
 
+.top-section 
+
+
+
 .hero {
 
+}
+
+.hero-image {
   
+}
+
+.container {
+
+}
+
+.column-one {
+
+}
+
+.column-two {
+  
+}
+
+.column-three {
+  
+}
+
+body {
+  margin:0px !important;
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+p {
+
 }
