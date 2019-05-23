@@ -115,6 +115,7 @@ h1 {
  font-family: 'Roboto', sans-serif;
   font-size: 50px;
   font-weight:600;
+  color: #FF4730;
 }
 
 h2 {
@@ -124,6 +125,8 @@ h2 {
 p {
 
 }
+
+//*Responsive*//
 
 @media (min-width: 769px) {
   .top-menu li {
