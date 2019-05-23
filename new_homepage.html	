@@ -1,0 +1,58 @@
+
+
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Andrew Eagan</title>
+    <link rel="stylesheet" href="/css/normalize.css">
+    <link rel="stylesheet" href="/css/theme.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+   <body>
+	 <div class="top-menu">
+	 	<ul class="nav">
+	 		<li class="nav-logo"><a href=#><img src="/assets/images/trollface-014.jpg"/></a></li>
+	 		<li class="nav-item"><a href=#></a>About</li>
+	 		<li class="nav-item"><a href=#></a>Travels</li>
+	 		<li class="nav-item"><a href=#></a>Food &amp; Drink</li>
+	 		<li class="nav-item"><a href=#></a>Brewing</li>
+	 	</ul>
+	 </div>
+	 </div>
+	 <div class="container">
+	 	<div class="top-section">
+			 <div class="hero">
+			 	<div class="hero-copy"><h1>LET'S ROLL</h1>
+			 	</div>
+			 </div>
+		</div>
+	</div>
+	<section class="main-content">
+		<div class="container-grid">
+			<div class="grid-item one"><p>LLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+			</div>
+			<div class="grid-item two"><p>LLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+			</div>
+			<div class="grid-item three"><p>LLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+			</div>
+		</div>
+	</section>
+  </body>
+ <section>
+<footer>
+	<div class="footer">
+		<ul class="footer-items">
+			<li>Link 1</li>
+			<li>Link 1</li>
+			<li>Link 1</li>
+		</ul>
+	</div>
+ </footer>
+</footer>
+</section>
+</html>

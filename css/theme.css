@@ -2,6 +2,12 @@
   box-sizing: border-box;
 }
 
+.comingsoon {
+  margin: auto;
+  width: 50%;  
+}
+
+
 .container {
   width:80%;
   margin:0 auto;
@@ -130,5 +136,6 @@ p {
   .top-menu img {
     padding-top: 5px;
   }
+
 
 }
